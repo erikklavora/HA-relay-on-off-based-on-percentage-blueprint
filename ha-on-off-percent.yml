@@ -29,7 +29,7 @@ blueprint:
           mode: "box"
       default: 90
 
-	discharged_percent:
+    discharged_percent:
       name: Discharge percent
       description: Charge device from this percent
       selector:
