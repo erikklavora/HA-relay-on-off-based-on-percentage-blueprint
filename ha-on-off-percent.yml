@@ -28,7 +28,7 @@ blueprint:
           unit_of_measurement: "%"
           mode: "box"
       default: 90
-	
+
 	discharged_percent:
       name: Discharge percent
       description: Charge device from this percent
