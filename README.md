@@ -1,0 +1,1 @@
+Blueprint for Home Assistant that adds an automation to start charging a device connected to a smart plug when the battery level falls below a certain percentage and stops charging when it reaches the desired percentage e.g. start charging at 20% and stop charging when reaches 80%.
